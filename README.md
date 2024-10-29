@@ -8,11 +8,7 @@
 
 ## 1. Demo
 
-懒得看文档的，可以直接看demo
-
-https://github.com/xkcoding/justauth-spring-boot-starter-demo
-
-完整版 demo：https://github.com/xkcoding/spring-boot-demo/tree/master/spring-boot-demo-social
+spring boot 3.3.5 + jdk21
 
 ## 2. 更新日志
 
@@ -26,9 +22,9 @@ https://github.com/xkcoding/justauth-spring-boot-starter-demo
 
 ```xml
 <dependency>
-  <groupId>com.xkcoding.justauth</groupId>
-  <artifactId>justauth-spring-boot-starter</artifactId>
-  <version>1.4.0</version>
+  <groupId>com.kuquwu</groupId>
+  <artifactId>justauth-spring-boot3-starter</artifactId>
+  <version>3.3.5.1</version>
 </dependency>
 ```
 
